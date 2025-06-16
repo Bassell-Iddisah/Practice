@@ -1,4 +1,4 @@
-package DesignPatterns.CommandPattern;
+package SystemDesign.DesignPatterns.CommandPattern;
 
 public class TurnOn implements Command {
     private Bulb bulb;

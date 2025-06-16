@@ -1,4 +1,4 @@
-package DesignPatterns.CommandPattern;
+package SystemDesign.DesignPatterns.CommandPattern;
 
 /* This is our invoker that takes commands and executes them without knowing how they are executed.*/
 

@@ -1,4 +1,4 @@
-package Classes;
+package CoreJava.Classes;
 
 public class calculator {
     private int a;

@@ -1,4 +1,4 @@
-package DesignPatterns.CommandPattern;
+package SystemDesign.DesignPatterns.CommandPattern;
 
 public interface Command {
     void execute();

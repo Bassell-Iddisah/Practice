@@ -1,4 +1,4 @@
-package DesignPatterns.CommandPattern;
+package SystemDesign.DesignPatterns.CommandPattern;
 
 /* This is the receiver object, which actually performs the action */
 

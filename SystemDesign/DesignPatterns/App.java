@@ -1,4 +1,6 @@
-import DesignPatterns.CommandPattern.*;
+package SystemDesign.DesignPatterns;
+
+import SystemDesign.DesignPatterns.CommandPattern.*;
 
 public class App {
     public static void main(String[] args) {
